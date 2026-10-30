@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "notes": "Aviso de atualizacao dentro do programa, com verificacao de integridade do download. Barra de menus vazia removida. Correcoes na aba Macro e nos textos da Calibracao.",
-  "url": "https://github.com/openscienceengineering/OS4V-Releases/releases/download/v0.2.2/OS4V_Setup_0.2.2.exe",
-  "sha256": "b1a8d3dec9847d349af3c77de5f76e741e927ce570f301b6c35646f9e1e41dd9"
+  "version": "0.2.1",
+  "notes": "Versao inicial distribuida.",
+  "url": "https://github.com/openscienceengineering/OS4V-Releases/releases/download/v0.2.1/OS4V_Setup_0.2.1.exe",
+  "sha256": "76d7642f90ebc3014e1294ff7514775087870b9428d8149476d1a1b9e8a47d8d"
 }
