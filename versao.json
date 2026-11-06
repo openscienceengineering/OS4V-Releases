@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "notes": "Painel de eixos e aba Macro aparecem ao conectar a CNC, sem reabrir o programa. Correcoes na aba Macro e nos textos da Calibracao.",
-  "url": "https://github.com/openscienceengineering/OS4V-Releases/releases/download/v0.2.2/OS4V_Setup_0.2.2.exe",
-  "sha256": "b1a8d3dec9847d349af3c77de5f76e741e927ce570f301b6c35646f9e1e41dd9"
+  "version": "0.3.0",
+  "notes": "Macro volta a rodar: a CNC referenciada nao era reconhecida e toda macro era recusada. Movimento recusado agora reporta o motivo em vez de travar a macro. Salvar e rodar exigem pasta e nome da amostra. Hadamard so aparece nos equipamentos cuja placa de iluminacao o implementa.",
+  "url": "https://github.com/openscienceengineering/OS4V-Releases/releases/download/v0.3.0/OS4V_Setup_0.3.0.exe",
+  "sha256": "107ad90e7436042c78e7a3e7f2745b3c15421d668ec5a309b95ce3b84437380f"
 }
